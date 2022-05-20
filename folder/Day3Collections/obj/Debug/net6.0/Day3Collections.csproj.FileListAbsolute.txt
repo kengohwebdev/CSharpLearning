@@ -1,0 +1,15 @@
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\bin\Debug\net6.0\Day3Collections.exe
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\bin\Debug\net6.0\Day3Collections.deps.json
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\bin\Debug\net6.0\Day3Collections.runtimeconfig.json
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\bin\Debug\net6.0\Day3Collections.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\bin\Debug\net6.0\Day3Collections.pdb
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\Day3Collections.csproj.AssemblyReference.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\Day3Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\Day3Collections.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\Day3Collections.AssemblyInfo.cs
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\Day3Collections.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\Day3Collections.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\refint\Day3Collections.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\Day3Collections.pdb
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\Day3Collections.genruntimeconfig.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day3Collections\obj\Debug\net6.0\ref\Day3Collections.dll
