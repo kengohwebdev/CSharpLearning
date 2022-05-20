@@ -1,0 +1,15 @@
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\Day4SampleApp.csproj.AssemblyReference.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\Day4SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\Day4SampleApp.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\Day4SampleApp.AssemblyInfo.cs
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\Day4SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\bin\Debug\net6.0\Day4SampleApp.exe
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\bin\Debug\net6.0\Day4SampleApp.deps.json
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\bin\Debug\net6.0\Day4SampleApp.runtimeconfig.json
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\bin\Debug\net6.0\Day4SampleApp.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\bin\Debug\net6.0\Day4SampleApp.pdb
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\Day4SampleApp.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\refint\Day4SampleApp.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\Day4SampleApp.pdb
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\Day4SampleApp.genruntimeconfig.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4SampleApp\obj\Debug\net6.0\ref\Day4SampleApp.dll
