@@ -1,0 +1,15 @@
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\bin\Debug\net6.0\Day4Exceptions.exe
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\bin\Debug\net6.0\Day4Exceptions.deps.json
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\bin\Debug\net6.0\Day4Exceptions.runtimeconfig.json
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\bin\Debug\net6.0\Day4Exceptions.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\bin\Debug\net6.0\Day4Exceptions.pdb
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\Day4Exceptions.csproj.AssemblyReference.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\Day4Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\Day4Exceptions.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\Day4Exceptions.AssemblyInfo.cs
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\Day4Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\Day4Exceptions.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\refint\Day4Exceptions.dll
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\Day4Exceptions.pdb
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\Day4Exceptions.genruntimeconfig.cache
+C:\Users\Lynn\Documents\Week2Git\CSharp-Training\CSharpLearning\Day4Exceptions\obj\Debug\net6.0\ref\Day4Exceptions.dll
