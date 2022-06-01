@@ -1,0 +1,39 @@
+div{
+    color: white;
+    font-size: 20px;
+    min-width: 50px;
+}
+
+
+#staticposition{
+    background-color: coral;
+    top:100px;
+    position:static;
+}
+
+.relativeposition{
+    background-color: green;
+    top:0px;
+    left:200px;
+    height: 50px;
+    position: relative;
+    z-index: 1; 
+}
+
+.absoluteposition{
+    background-color: blue;
+    bottom:0px;
+    right: 0px;
+    height:100px;
+    position:absolute;
+}
+
+.fixedposition{
+    background-color: violet;
+    top: 50px;
+    position:fixed;
+    height: 100px;
+    width:400px;
+    left: 0px;
+    z-index: 0;
+}

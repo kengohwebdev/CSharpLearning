@@ -1,0 +1,25 @@
+@media screen and (min-width: 800px){
+    .changeColor{
+        color:yellowgreen;
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 900px) and (min-width: 600px) {
+    .changeColor{
+      color:violet;
+    }
+  }
+
+  .changeLocation{
+    margin-top: 50px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+@media screen and (max-width: 900px) and (min-width: 600px) {
+    .changeLocation{
+        position:absolute;
+        top:300px;
+        width:300px;
+    }
+}
